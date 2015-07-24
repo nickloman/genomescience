@@ -1,10 +1,10 @@
-title: "blog title"
-author: "Blog Author"
+title: "Genome Science 2015"
+author: "Genome Science Ltd"
 description: "Really cool blog about ... something"
 #subheading: "Really cool blog about ... something"
 more: "read more"
 url: "http://niklabs.me"
-baseurl: "/contrast" # comment out if in root directory
+#baseurl: "/contrast" # comment out if in root directory
 
 comments:
     disqus: "niklasbuschmann"
@@ -12,7 +12,7 @@ comments:
 
 style:
 #    body: "whitesmoke"
-    padding: 33%
+    padding: 25% 
     anchor: "#46f"
     serif-heading: true
     nav: "#181818"

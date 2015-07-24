@@ -22,12 +22,20 @@ body
 
 {% if site.style.serif-heading %}
 
+body > header
+    text-align: center
+
 body > header h1
     font-weight: bold
 
 h1, h2, h3, h4, h5, h6 
     font-family: "Gentium Basic", serif
+    text-align: center
     letter-spacing: 2px
+    padding-top: 0.25em
+    padding-bottom: 0.25em
+    margin-top: 0px
+    margin-bottom: 0px
     header &
         text-transform: uppercase
 

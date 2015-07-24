@@ -118,7 +118,7 @@ Chair: Dr Nick Loman, MRC Independent Research Fellow in Biomedical Informatics,
 
 09:00 – 09:30 Coffee
 
-### Parallel Session: Clinical genomics
+### Parallel Session 7: Clinical genomics
 
 09:30 - 10:00 Sarah Ennis, Professor of Genomics, School of Medicine, University of Southampton *Paediatric exomes: diagnostic and data dilemmas*
 
@@ -128,7 +128,7 @@ Chair: Dr Nick Loman, MRC Independent Research Fellow in Biomedical Informatics,
 
 10:45 - 11:00 *Abstract selected talk*
 
-### Parallel Session: Computational Genomics
+### Parallel Session 8: Computational Genomics
 
 Chair: Professor Chris Ponting, Professor of Genomics at the University of Oxford and an Associate Faculty member at the Wellcome Trust Sanger Institute
 

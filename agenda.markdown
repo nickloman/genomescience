@@ -52,7 +52,7 @@ Chair: Dr Holly Bik, Birmingham Fellow, School of Biosciences, University of Bir
 
 ### Parallel Session 2: Single Cell Genomics
 
-09:30 Sarah Teichmann, Research Group Leader, European Bioinformatics Institute, European Molecular Biology Laboratory, *Title tbc*
+09:30 Sarah Teichmann, Research Group Leader, European Bioinformatics Institute, European Molecular Biology Laboratory, *Understanding cellular heterogeneity*
 
 10:00 David Starns, RIKEN/Liverpool, *Title: tbc*
 

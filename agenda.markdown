@@ -28,7 +28,7 @@ Chair: Dr Mike Quail, Sequencing R and D Team Leader at Wellcome Trust Sanger In
 
 17:45 10x Genomics, speaker tbc
 
-18:00 Base4, speaker tbc
+18:00 Base4, Cameron Frayling, *The Base4 Platform*
 
 ### 18:15 - 19:00 Posters & drinks
 

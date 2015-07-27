@@ -10,7 +10,7 @@ title: "Agenda"
 
 ### Plenary session 1
 
-14:00 Daniel MacArthur, Group Leader, Analytic and Translational Genetics Unit, Massachusetts General Hospital *Title: tbc*
+14:00 Daniel MacArthur, Group Leader, Analytic and Translational Genetics Unit, Massachusetts General Hospital *From big data to biology: lessons from 60,000 human exomes*
 
 14:45 Bill Hanage, Harvard T.H. Chan School of Public Health, *Is genomics biology?*
 

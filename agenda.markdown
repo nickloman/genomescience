@@ -26,7 +26,7 @@ Chair: Dr Mike Quail, Sequencing R and D Team Leader at Wellcome Trust Sanger In
 
 17:15 Illumina, speaker tbc, *Illumina Updates*
 
-17:45 10x Genomics, speaker tbc
+17:45 10x Genomics, Michael Schnall-Levin, VP of Computational Biology and Applications, 10X Genomics, *Unlock Powerful Genomics Insights with Linked-Reads: Introducing the GemCode Platform*
 
 18:00 Base4, Cameron Frayling, *The Base4 Platform*
 
@@ -54,7 +54,7 @@ Chair: Dr Holly Bik, Birmingham Fellow, School of Biosciences, University of Bir
 
 09:30 Sarah Teichmann, Research Group Leader, European Bioinformatics Institute, European Molecular Biology Laboratory, *Understanding cellular heterogeneity*
 
-10:00 David Starns, RIKEN/Liverpool, *Title: tbc*
+10:00 David Starns, RIKEN/Liverpool, *Gotta Catch Em All – using single cell genomics to unravel termite nutritional symbioses*
 
 10:30 Willie Wilson, Head of Science (Microbial Processes and Biotechnology), Plymouth Marine Laboratory
 

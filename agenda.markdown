@@ -44,7 +44,7 @@ Chair: Dr Holly Bik, Birmingham Fellow, School of Biosciences, University of Bir
 
 09:30 Luisa Orsini, Lecturer in Biosystems and Environmental Change, *Only time can tell: studying long-term evolutionary dynamics using biological archives*
 
-10:00 *Title tbc*
+10:00 Douglas Yu, Principal Investigator and Director of the Ecology, Conservation, and Environment Center (ECEC), University of East Anglia, *Metabarcoding and Mitogenomics for endangered species conservation and management*
 
 10:30 *Abstract-selected talk*
 
@@ -143,7 +143,7 @@ Chair: Professor Chris Ponting, Professor of Genomics at the University of Oxfor
 
 ### 11:30 – 13:00 Plenary session
 
-11:30 - 12:15 Inês Barroso, Head of Human Genetics at the Wellcome Trust Sanger Institute and leader of the Metabolic Disease Group *Title: tbc*
+11:30 - 12:15 Inês Barroso, Head of Human Genetics at the Wellcome Trust Sanger Institute and leader of the Metabolic Disease Group *Genomics and Metabolic Disease – what have we learned so far?*
 
 12:15 - 13:00 Matthew Cobb, University of Manchester *Life's Greatest Secret: The Story of the Race to Crack the Genetic Code*
 

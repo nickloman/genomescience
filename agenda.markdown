@@ -22,7 +22,7 @@ Chair: Dr Mike Quail, Sequencing R and D Team Leader at Wellcome Trust Sanger In
 
 16:00 Professor Mark Akeson, Co-Director, UCSC Biophysics Laboratory, University of California Santa Cruz *'Nanopore sequencing for DNA and protein sensing'*
 
-16:45 Clive Brown, Vice President of Development, Oxford Nanopore Technologies *Oxford Nanopore Updates*
+16:45 Clive Brown, Chief Technology Officer, Oxford Nanopore Technologies *Oxford Nanopore Updates*
 
 17:15 Illumina, speaker tbc, *Illumina Updates*
 

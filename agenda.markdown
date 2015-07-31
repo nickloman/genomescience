@@ -82,7 +82,7 @@ Chair: Dr Mick Watson, Head of Bioinformatics, Edinburgh Genomics, The Roslin In
 
 14:00 - 14:30 Professor of Plant Evolution and Development; Speciation Genetics, University of Edinburgh/Royal Botanic Gardens Edinburgh, *Genetics and genomics of Begonia and understanding diversity*
 
-14:30 - 15:00 Paul Flicek, Senior Scientist and Team Leader, Vertebrate Genomics, European Bioinformatics Institute, European Molecular Biology Laboratory, *Enhancer evolution across mammalian species*
+14:30 - 15:00 Paul Flicek, Senior Scientist and Team Leader, Vertebrate Genomics, European Bioinformatics Institute, European Molecular Biology Laboratory, *Enhancers and the evolution of mammalian transcriptional regulation*
 
 15:00 - 15:15 *Abstract selected talk*
 

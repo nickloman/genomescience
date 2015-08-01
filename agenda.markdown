@@ -94,7 +94,7 @@ Chair: Dr Nick Loman, MRC Independent Research Fellow in Biomedical Informatics,
 
 14:00 - 14:30 Jukka Corander, University of Helsinki, *Being the Clairvoyant - Sequence Element Enrichment (SEER) analysis for deciphering genetic basis of bacterial phenotypes*
 
-14:30 - 14:50 Josh Quick, University of Birmingham, Portable nanopore sequencing for pathogen sequencing
+14:30 - 14:50 Josh Quick, University of Birmingham, Portable nanopore sequencing for pathogen profiling
 
 14:50 - 15:10 Lauren Cowley, Public Health England, Sequencing Ebola in the field: a tale of nanopores, mosquitos and whatsapp
 

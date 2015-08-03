@@ -66,7 +66,7 @@ Chair: Aziz Aboobaker, University of Oxford
 
 11:30 - 12:00 Amy Buck, Wellcome Trust Research Career Development Fellow, Centre for Immunity, Infection and Evolution, University of Edinburgh *RNA and vesicle secretion by helminths: a new mode of parasite-host communication?*
 
-12:00 - 12:30 Tatjana Sauka-Spengler, Associate Professor of Genome Biology, Radcliffe Department of Medicine, University of Oxford, *Title: tbc*
+12:00 - 12:30 Tatjana Sauka-Spengler, Associate Professor of Genome Biology, Radcliffe Department of Medicine, University of Oxford, *Pioneering the chromatin for neural crest specification*
 
 12:30 - 13:00 Prof Anura Rambukkana, *Title: tbc*
 

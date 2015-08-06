@@ -52,6 +52,8 @@ Chair: Dr Holly Bik, Birmingham Fellow, School of Biosciences, University of Bir
 
 ### Parallel Session 2: Single Cell Genomics
 
+Chair: Neil Hall, Professor of Functional and Comparative Genomics, Institute of Integrative Biology, University of Liverpool
+
 09:30 Sarah Teichmann, Research Group Leader, European Bioinformatics Institute, European Molecular Biology Laboratory, *Understanding cellular heterogeneity*
 
 10:00 David Starns, RIKEN/Liverpool, *Gotta Catch Em All – using single cell genomics to unravel termite nutritional symbioses*

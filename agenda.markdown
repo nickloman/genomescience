@@ -86,13 +86,13 @@ Richard Leggett, TGAC, *Flexible, multi-reference software for pre and post-alig
 
 Chair: Dr Mick Watson, Head of Bioinformatics, Edinburgh Genomics, The Roslin Institute, University of Edinburgh
 
-14:00 - 14:30 Professor of Plant Evolution and Development; Speciation Genetics, University of Edinburgh/Royal Botanic Gardens Edinburgh, *Genetics and genomics of Begonia and understanding diversity*
+14:00 - 14:30 Catherine Kidner, Professor of Plant Evolution and Development; Speciation Genetics, University of Edinburgh/Royal Botanic Gardens Edinburgh, *Genetics and genomics of Begonia and understanding diversity*
 
 14:30 - 15:00 Paul Flicek, Senior Scientist and Team Leader, Vertebrate Genomics, European Bioinformatics Institute, European Molecular Biology Laboratory, *Enhancers and the evolution of mammalian transcriptional regulation*
 
-15:00 - 15:15 Paul Bailey, *New Online Resource Provides Millions of Induced Mutations for Gene Function Analysis in Bread Wheat*
+15:00 - 15:15 Paul Bailey, The Genome Analysis Centre, *New Online Resource Provides Millions of Induced Mutations for Gene Function Analysis in Bread Wheat*
 
-15:15 - 15:30 Adam Hargreaves, *Characterisation of snake venom gland transcriptomes using the Oxford Nanopore MinION portable single-molecule nanopore sequencer*
+15:15 - 15:30 Adam Hargreaves, University of Oxford, *Characterisation of snake venom gland transcriptomes using the Oxford Nanopore MinION portable single-molecule nanopore sequencer*
 
 ### Parallel Session 6: Microbial Genomics
 

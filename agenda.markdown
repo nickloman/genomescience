@@ -24,11 +24,11 @@ Chair: Dr Mike Quail, Sequencing R and D Team Leader at Wellcome Trust Sanger In
 
 16:45 Clive Brown, Chief Technology Officer, Oxford Nanopore Technologies *Oxford Nanopore Updates*
 
-17:15 Illumina, speaker tbc, *Illumina Updates*
+17:15 Illumina, Scott Brouilette, *Illumina Updates*
 
 17:45 10x Genomics, Michael Schnall-Levin, VP of Computational Biology and Applications, 10X Genomics, *Unlock Powerful Genomics Insights with Linked-Reads: Introducing the GemCode Platform*
 
-18:00 Base4, Cameron Frayling, *The Base4 Platform*
+18:00 Base4, Cameron Frayling, *Caution! May contain nudity!*
 
 ### 18:15 - 19:00 Posters & drinks
 
@@ -46,9 +46,9 @@ Chair: Dr Holly Bik, Birmingham Fellow, School of Biosciences, University of Bir
 
 10:00 Douglas Yu, Principal Investigator and Director of the Ecology, Conservation, and Environment Center (ECEC), University of East Anglia, *Metabarcoding and Mitogenomics for endangered species conservation and management*
 
-10:30 *Abstract-selected talk*
+10:30 Martin Ayling, *Metagenomic assembly with viral genomes*
 
-10:45 *Abstract-selected talk*
+10:45 Bede Constantinides, *Characterising highly diverse RNA viromes in geographically distributed Venezuelan bats*
 
 ### Parallel Session 2: Single Cell Genomics
 
@@ -58,9 +58,7 @@ Chair: Neil Hall, Professor of Functional and Comparative Genomics, Institute of
 
 10:00 David Starns, RIKEN/Liverpool, *Gotta Catch Em All – using single cell genomics to unravel termite nutritional symbioses*
 
-10:30 Willie Wilson, Head of Science (Microbial Processes and Biotechnology), Plymouth Marine Laboratory
-
-10:45 Abstract talk
+10:30 Willie Wilson, Head of Science (Microbial Processes and Biotechnology), Plymouth Marine Laboratory, *tbc*
 
 ### Parallel Session 3: Functional Genomics
 
@@ -74,7 +72,13 @@ Chair: Aziz Aboobaker, University of Oxford
 
 ### Parallel Session: Bioinformatics showcase, The Great Hall
 
-*Details to be confirmed*
+Mohammed-Amin Madoui, Genoscope, France *Microbial genome assembly using synthetic error-free reads*
+	
+Matt Loose, University of Nottingham, *Running and Reading in Real Time: Looking at Squiggles on the Oxford Nanopore minION*
+
+Tom Connor, University of Cardiff, *The Cloud Infrastructure for Microbial Bioinformatics (CLIMB)*
+
+Richard Leggett, TGAC, *Flexible, multi-reference software for pre and post-alignment analysis of Nanopore sequencing data, quality and error profiles*
 
 ### 13:00 - 14:00 Lunch
 
@@ -86,9 +90,9 @@ Chair: Dr Mick Watson, Head of Bioinformatics, Edinburgh Genomics, The Roslin In
 
 14:30 - 15:00 Paul Flicek, Senior Scientist and Team Leader, Vertebrate Genomics, European Bioinformatics Institute, European Molecular Biology Laboratory, *Enhancers and the evolution of mammalian transcriptional regulation*
 
-15:00 - 15:15 *Abstract selected talk*
+15:00 - 15:15 Paul Bailey, *New Online Resource Provides Millions of Induced Mutations for Gene Function Analysis in Bread Wheat*
 
-15:15 - 15:30 *Abstract selected talk*
+15:15 - 15:30 Adam Hargreaves, *Characterisation of snake venom gland transcriptomes using the Oxford Nanopore MinION portable single-molecule nanopore sequencer*
 
 ### Parallel Session 6: Microbial Genomics
 
@@ -96,13 +100,13 @@ Chair: Dr Nick Loman, MRC Independent Research Fellow in Biomedical Informatics,
 
 14:00 - 14:30 Jukka Corander, University of Helsinki, *Being the Clairvoyant - Sequence Element Enrichment (SEER) analysis for deciphering genetic basis of bacterial phenotypes*
 
-14:30 - 14:50 Josh Quick, University of Birmingham, Portable nanopore sequencing for pathogen profiling
+14:30 - 14:50 Josh Quick, University of Birmingham, *Portable nanopore sequencing for pathogen profiling*
 
-14:50 - 15:10 Lauren Cowley, Public Health England, Sequencing Ebola in the field: a tale of nanopores, mosquitos and whatsapp
+14:50 - 15:10 Lauren Cowley, Public Health England, *Sequencing Ebola in the field: a tale of nanopores, mosquitos and whatsapp*
 
-15:10 - 15:20 *Abstract selected talk*
+15:10 - 15:20 Tom Connor, Cardiff University, *Using genomics to define, explore and expand our understanding of the species Shigella flexneri*
 
-15:20 - 15:30 *Abstract selected talk*
+15:20 - 15:30 Andrea Gori, *The distribution and composition of Campylobacter jejuni plasmid pan-genome*
 
 ### Vendor Sessions
 
@@ -122,13 +126,15 @@ Chair: Dr Nick Loman, MRC Independent Research Fellow in Biomedical Informatics,
 
 ### Parallel Session 7: Clinical genomics
 
+Chair: Dr Andrew Beggs, Clinical Lecturer in the School of Cancer Sciences, Univeristy of Birmingham
+
 09:30 - 10:00 Sarah Ennis, Professor of Genomics, School of Medicine, University of Southampton *Paediatric exomes: diagnostic and data dilemmas*
 
 10:00 - 10:30 Pippa Thomson, Lecturer, Centre for Genomic and Experimental Medicine, School of Molecular, Genetic and Population Health Sciences, University of Edinburgh: *Using high throughput sequencing to understand the genetic complexity of psychiatric illness*
 
-10:30 - 10:45 Anthony Rogers, Congenica
+10:30 - 10:45 Anthony Rogers, Congenica, *Why We Care About Rare Diseases*
 
-10:45 - 11:00 *Abstract selected talk*
+10:45 - 11:00 Saskia Sanderson, Department of Genetics and Genomic Sciences, Icahn School of Medicine, New York, NY, *Should everyone have their genomes sequenced? Insights from interviews with personal genomics research participants*
 
 ### Parallel Session 8: Computational Genomics
 
@@ -139,9 +145,9 @@ Chair: Professor Chris Ponting, Professor of Genomics at the University of Oxfor
 
 10:00 - 10:30 Gosia Trynka, Group Leader, Wellcome Trust Sanger Institute *Title: tbc*
 
-10:30 - 10:45 *Abstract selected talk*
+10:30 - 10:45 Nicholas J Harding, *Challenges of fine and broad scale diversity in the genome of the malaria vector Anopheles gambiae*
 
-10:45 - 11:00 *Abstract selected talk*
+10:45 - 11:00 Mick Watson, *Is the end of RNA-Seq alignment? Benchmarking RNA-Seq quantification tools*
 
 ### 11:30 – 13:00 Plenary session
 

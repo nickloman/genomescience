@@ -143,7 +143,7 @@ Chair: Professor Chris Ponting, Professor of Genomics at the University of Oxfor
 09:30 - 10:00 Martin Taylor, Group Leader, Biomedical Systems Analysis, Institute of Genetics and Molecular Medicine, MRC Human Genetics Unit, University of Edinburgh Western General Hospital
 *The frequent evolutionary birth and death of functional promoters*
 
-10:00 - 10:30 Gosia Trynka, Group Leader, Wellcome Trust Sanger Institute *Title: tbc*
+10:00 - 10:30 Gosia Trynka, Group Leader, Wellcome Trust Sanger Institute *Using epigenetics for biological interpretation of complex trait associations*
 
 10:30 - 10:45 Nicholas J Harding, *Challenges of fine and broad scale diversity in the genome of the malaria vector Anopheles gambiae*
 

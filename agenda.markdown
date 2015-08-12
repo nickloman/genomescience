@@ -147,7 +147,7 @@ Chair: Professor Chris Ponting, Professor of Genomics at the University of Oxfor
 
 10:30 - 10:45 Nicholas J Harding, *Challenges of fine and broad scale diversity in the genome of the malaria vector Anopheles gambiae*
 
-10:45 - 11:00 Mick Watson, *Is the end of RNA-Seq alignment? Benchmarking RNA-Seq quantification tools*
+10:45 - 11:00 Mick Watson, Edinburgh Genomics, *Is the end of RNA-Seq alignment? Benchmarking RNA-Seq quantification tools*
 
 ### 11:30 – 13:00 Plenary session
 

@@ -46,9 +46,9 @@ Chair: Dr Holly Bik, Birmingham Fellow, School of Biosciences, University of Bir
 
 10:00 Douglas Yu, Principal Investigator and Director of the Ecology, Conservation, and Environment Center (ECEC), University of East Anglia, *Metabarcoding and Mitogenomics for endangered species conservation and management*
 
-10:30 Martin Ayling, *Metagenomic assembly with viral genomes*
+10:30 Martin Ayling, The Genome Analysis Centre, *Metagenomic assembly with viral genomes*
 
-10:45 Bede Constantinides, *Characterising highly diverse RNA viromes in geographically distributed Venezuelan bats*
+10:45 Bede Constantinides, University of Manchester, *Characterising highly diverse RNA viromes in geographically distributed Venezuelan bats*
 
 ### Parallel Session 2: Single Cell Genomics
 

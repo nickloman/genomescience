@@ -60,6 +60,8 @@ Chair: Neil Hall, Professor of Functional and Comparative Genomics, Institute of
 
 10:30 Willie Wilson, Head of Science (Microbial Processes and Biotechnology), Plymouth Marine Laboratory, *tbc*
 
+10:45 
+
 ### Parallel Session 3: Functional Genomics
 
 Chair: Aziz Aboobaker, University of Oxford

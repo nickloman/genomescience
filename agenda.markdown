@@ -58,7 +58,7 @@ Chair: Neil Hall, Professor of Functional and Comparative Genomics, Institute of
 
 10:00 David Starns, RIKEN/Liverpool, *Gotta Catch Em All – using single cell genomics to unravel termite nutritional symbioses*
 
-10:30 Harry Noyes, University of Liverpool, *Direct discovery of bovine haplotypes by sequencing from single chromosomes *
+10:30 Harry Noyes, University of Liverpool, *Direct discovery of bovine haplotypes by sequencing from single chromosomes*
 
 10:45 Justina Zuraskiene, Wellcome Trust Centre for Human Genetics, University of Oxford, *pcaReduce: combining k-means clustering and principal components analysis for hierarchical clustering of single cell transcriptional profiles*
 

@@ -24,9 +24,9 @@ Chair: Dr Mike Quail, Sequencing R and D Team Leader at Wellcome Trust Sanger In
 
 16:45 Clive Brown, Chief Technology Officer, Oxford Nanopore Technologies *Oxford Nanopore Updates*
 
-17:15 Illumina, Scott Brouilette, *Illumina Updates*
+17:15 Scott Brouilette, Illumina, *Illumina Updates*
 
-17:45 10x Genomics, Michael Schnall-Levin, VP of Computational Biology and Applications, 10X Genomics, *Unlock Powerful Genomics Insights with Linked-Reads: Introducing the GemCode Platform*
+17:45 Michael Schnall-Levin, VP of Computational Biology and Applications, 10X Genomics, *Unlock Powerful Genomics Insights with Linked-Reads: Introducing the GemCode Platform*
 
 18:00 Base4, Cameron Frayling, *Caution! May contain nudity!*
 
@@ -58,9 +58,9 @@ Chair: Neil Hall, Professor of Functional and Comparative Genomics, Institute of
 
 10:00 David Starns, RIKEN/Liverpool, *Gotta Catch Em All – using single cell genomics to unravel termite nutritional symbioses*
 
-10:30 Willie Wilson, Head of Science (Microbial Processes and Biotechnology), Plymouth Marine Laboratory, *tbc*
+10:30 Harry Noyes, University of Liverpool, *Direct discovery of bovine haplotypes by sequencing from single chromosomes *
 
-10:45 
+10:45 Justina Zuraskiene, Wellcome Trust Centre for Human Genetics, University of Oxford, *pcaReduce: combining k-means clustering and principal components analysis for hierarchical clustering of single cell transcriptional profiles*
 
 ### Parallel Session 3: Functional Genomics
 

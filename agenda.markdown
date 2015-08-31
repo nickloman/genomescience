@@ -70,7 +70,7 @@ Chair: Aziz Aboobaker, University of Oxford
 
 12:00 - 12:30 Tatjana Sauka-Spengler, Associate Professor of Genome Biology, Radcliffe Department of Medicine, University of Oxford, *Pioneering the chromatin for neural crest specification*
 
-12:30 - 13:00 Prof Anura Rambukkana, *Title: tbc*
+12:30 - 13:00 Prof Anura Rambukkana, *Bacterial-induced epigenetic reprogramming of adult tissue cell fate*
 
 ### Parallel Session: Bioinformatics showcase, The Great Hall
 

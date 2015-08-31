@@ -44,7 +44,7 @@ Chair: Dr Holly Bik, Birmingham Fellow, School of Biosciences, University of Bir
 
 09:30 Luisa Orsini, Lecturer in Biosystems and Environmental Change, University of Birmingham, *Only time can tell: studying long-term evolutionary dynamics using biological archives*
 
-10:00 Douglas Yu, Principal Investigator and Director of the Ecology, Conservation, and Environment Center (ECEC), University of East Anglia, *Metabarcoding and Mitogenomics for endangered species conservation and management*
+10:00 Douglas Yu, Professor of Ecology, University of East Anglia, Metabarcoding and mitogenomics for endangered species conservation and management *Metabarcoding and Mitogenomics for endangered species conservation and management*
 
 10:30 Martin Ayling, The Genome Analysis Centre, *Metagenomic assembly with viral genomes*
 

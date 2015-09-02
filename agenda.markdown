@@ -74,13 +74,17 @@ Chair: Aziz Aboobaker, University of Oxford
 
 ### Parallel Session: Bioinformatics showcase, The Great Hall
 
-Mohammed-Amin Madoui, Genoscope, France *Microbial genome assembly using synthetic error-free reads*
-	
-Matt Loose, University of Nottingham, *Running and Reading in Real Time: Looking at Squiggles on the Oxford Nanopore minION*
+Chair: Dr Emily Richardson, Research Fellow, MicrobesNG, Institute of Microbiology and Infection, University of Birmingham
 
-Tom Connor, University of Cardiff, *The Cloud Infrastructure for Microbial Bioinformatics (CLIMB)*
+11:30 - 11:50 **Sponsored Talk**: Dr Tim Bonnert, Associate Director of QIAGEN Advanced Genomics, *Sample to Insight with QIAGEN bioinformatics*
 
-Richard Leggett, TGAC, *Flexible, multi-reference software for pre and post-alignment analysis of Nanopore sequencing data, quality and error profiles*
+11:50 - 12:05 Mohammed-Amin Madoui, Genoscope, France *Microbial genome assembly using synthetic error-free reads*
+
+12:05 - 12:20 Matt Loose, University of Nottingham, *Running and Reading in Real Time: Looking at Squiggles on the Oxford Nanopore minION*
+
+12:20 - 12:35 Tom Connor, University of Cardiff, *The Cloud Infrastructure for Microbial Bioinformatics (CLIMB)*
+
+12:35 - 12:50 Richard Leggett, TGAC, *Flexible, multi-reference software for pre and post-alignment analysis of Nanopore sequencing data, quality and error profiles*
 
 ### 13:00 - 14:00 Lunch
 
@@ -110,17 +114,27 @@ Chair: Dr Nick Loman, MRC Independent Research Fellow in Biomedical Informatics,
 
 15:20 - 15:30 Andrea Gori, *The distribution and composition of Campylobacter jejuni plasmid pan-genome*
 
+15:30 - 16:00 Coffee
+
+16:00 - 16:30
+
 ### Vendor Sessions
 
- * KAPA Biosystems
- * New England Biolabs
- * Beckman Coulter
- * Hamilton Robotics
- * Thermo Fisher
- * Roche
- * Cambridge Biosciences
+16:30 - 16:45 KAPA Biosystems
 
-### 18:00 Conference “street food” dinner, Alfie Birds, Custard Factory, Digbeth
+16:45 - 17:00 New England Biolabs
+
+17:00 - 17:15 Beckman Coulter
+
+17:15 - 17:30 Hamilton Robotics
+
+17:30 - 17:45 Thermo Fisher
+
+17:45 - 18:00 Roche
+
+18:00 - 18:15 Cambridge Biosciences
+
+### 18:30 Conference “street food” dinner, Alfie Birds, Custard Factory, Digbeth
 
 ## Wednesday 9th September
 

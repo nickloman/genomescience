@@ -2,6 +2,8 @@
 title: "Agenda"
 ---
 
+[The finalised schedule is available as a PDF programme](/GenomeScience-programme-20150904.pdf)
+
 ## Monday 7th September
 
 ### Great Hall, Aston Webb Building, University of Birmingham

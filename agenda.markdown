@@ -2,7 +2,7 @@
 title: "Agenda"
 ---
 
-[The finalised schedule is available as a PDF programme](/GenomeScience-programme-20150904.pdf)
+### [The finalised schedule is available as a PDF programme](/GenomeScience-programme-20150904.pdf)
 
 ## Monday 7th September
 

@@ -1,4 +1,4 @@
-title: "Genome Science 2015"
+title: "Genome Science 2016"
 author: "Genome Science Ltd"
 description: "Really cool blog about ... something"
 #subheading: "Really cool blog about ... something"
@@ -32,3 +32,4 @@ links:
 
 excerpt_separator: "\n\n\n"
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
+#exclude: past

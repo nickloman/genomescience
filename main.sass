@@ -60,4 +60,21 @@ article:nth-of-type(even)
 article:nth-of-type(odd)
     +article_background($odd, $anchor)
 
+.frontpage-text
+    text-align: center
+
+blockquote
+    border-left: 4px solid #eee
+    p
+        margin-top: 0
+        padding-top: 0
+
+blockquote p:before
+    color: #ccc
+    content: open-quote
+    font-size: 4em
+    line-height: 0.1em
+    margin-right: 0.25em
+    vertical-align: -0.4em
+
 @import vendor

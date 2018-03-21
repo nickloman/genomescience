@@ -18,7 +18,16 @@ The Agenda will include sessions on:
 - Evolving Technologies
 - Plant and Animal Genomics
 
-*Keynote Speakers TBA*
+*Keynote Speakers include:*
+
+Ewan Birney (EBI)
+
+Mark Akeson (UCSC)
+
+With more to be announced shortly.
+
+
+
 
 
 Please send abstracts to <a href="mailto:victoria.wright@nottingham.ac.uk">victoria.wright@nottingham.ac.uk</a>

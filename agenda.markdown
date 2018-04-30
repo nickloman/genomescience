@@ -77,7 +77,10 @@ The Agenda will include sessions on:
     
 •Computational Genomics : 
 
-    Speakers : 
+    Speakers :
+    Chris Ponting (Edinburgh),
+    Mara Lawniczak (Sanger),
+    Mirjana Efremova (Sanger), 
     Verne Global.
     
 With many more speakers to announce.
